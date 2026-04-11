@@ -1,0 +1,8 @@
+[ 2026-04-11 09:17:28,945 ] 26 root - INFO - Entered the data ingestion method or component
+[ 2026-04-11 09:17:30,829 ] 29 root - INFO - Read the dataset as dataframe
+[ 2026-04-11 09:17:33,810 ] 35 root - INFO - Train test split initiated
+[ 2026-04-11 09:17:37,013 ] 42 root - INFO - Ingestion of the data iss completed
+[ 2026-04-11 09:17:39,133 ] 80 root - INFO - Data loaded successfully
+[ 2026-04-11 09:17:39,969 ] 44 root - INFO - Numerical columns: ['SalesID', 'MachineID', 'ModelID', 'datasource', 'auctioneerID', 'YearMade', 'MachineHoursCurrentMeter']
+[ 2026-04-11 09:17:39,969 ] 45 root - INFO - Categorical columns: ['UsageBand', 'fiModelDesc', 'fiBaseModel', 'fiSecondaryDesc', 'fiModelSeries', 'fiModelDescriptor', 'ProductSize', 'fiProductClassDesc', 'state', 'ProductGroup', 'ProductGroupDesc', 'Drive_System', 'Enclosure', 'Forks', 'Pad_Type', 'Ride_Control', 'Stick', 'Transmission', 'Turbocharged', 'Blade_Extension', 'Blade_Width', 'Enclosure_Type', 'Engine_Horsepower', 'Hydraulics', 'Pushblock', 'Ripper', 'Scarifier', 'Tip_Control', 'Tire_Size', 'Coupler', 'Coupler_System', 'Grouser_Tracks', 'Hydraulics_Flow', 'Track_Type', 'Undercarriage_Pad_Width', 'Stick_Length', 'Thumb', 'Pattern_Changer', 'Grouser_Type', 'Backhoe_Mounting', 'Blade_Type', 'Travel_Controls', 'Differential_Type', 'Steering_Controls']
+[ 2026-04-11 09:17:39,970 ] 98 root - INFO - Applying preprocessing...

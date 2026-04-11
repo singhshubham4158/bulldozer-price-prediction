@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: Bulldozer-Price-Prediction
+Version: 0.0.1
+Author: Shubham Singh
+Author-email: singhshubham4158@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: plotly
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: nbformat
+Requires-Dist: notebook
+Requires-Dist: ipython
+Requires-Dist: shap
+Requires-Dist: scikit-learn
+Requires-Dist: flask
+Requires-Dist: dill
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

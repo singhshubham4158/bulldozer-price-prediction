@@ -1,0 +1,12 @@
+[ 2026-04-11 09:42:13,069 ] 25 root - INFO - Entered the data ingestion method or component
+[ 2026-04-11 09:42:14,912 ] 28 root - INFO - Read the dataset as dataframe
+[ 2026-04-11 09:42:17,790 ] 34 root - INFO - Train test split initiated
+[ 2026-04-11 09:42:21,054 ] 41 root - INFO - Ingestion of the data iss completed
+[ 2026-04-11 09:42:23,290 ] 82 root - INFO - Data loaded successfully
+[ 2026-04-11 09:42:24,132 ] 47 root - INFO - Numerical columns: 7
+[ 2026-04-11 09:42:24,132 ] 48 root - INFO - Categorical columns: 44
+[ 2026-04-11 09:42:24,133 ] 100 root - INFO - Applying preprocessing...
+[ 2026-04-11 09:42:28,699 ] 118 root - INFO - Preprocessing object saved
+[ 2026-04-11 09:42:28,744 ] 25 root - INFO - Starting model training
+[ 2026-04-11 09:42:28,747 ] 43 root - INFO - X_train shape: (320901, 0)
+[ 2026-04-11 09:42:28,747 ] 44 root - INFO - y_train shape: (320901,)
